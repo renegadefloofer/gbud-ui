@@ -1,0 +1,10 @@
+.header {
+  background-color: var(--secondary-clr);
+  font-size: 0.8rem;
+  margin-bottom: 0 20px;
+}
+
+h1 {
+  padding: 5px;
+  color: var(--primary-clr);
+}

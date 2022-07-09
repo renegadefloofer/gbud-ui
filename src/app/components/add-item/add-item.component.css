@@ -1,0 +1,11 @@
+.addWidget {
+  min-width: 60vw;
+  border: 1px solid var(--primary-clr);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 10px;
+  padding: 20px;
+}
